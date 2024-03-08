@@ -4,10 +4,10 @@
 
 I am Kesavan.
 
-Software Engineering Undergraduate | University of Kelaniya
+Lecturer at the University of Kelaniya
 
 
-- :mortar_board: I’m currently reading for B.Sc. (Hons.) in Software Engineering
+- :mortar_board: I’m currently reading for Masters in Computer Scinence at University of Colombo School of Computing
 - 📫 How to reach me: :[Mail](mailto:kesavan.selvarajah.dev@gmail.com "Kesavan Selvarajah") :zap: [LinkedIn](https://www.linkedin.com/in/kesavanselvarajah/ "Kesavan Selvarajah") 
 - [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg)](https://www.buymeacoffee.com/kesavan)
 
